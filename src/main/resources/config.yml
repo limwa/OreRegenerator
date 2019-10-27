@@ -1,0 +1,13 @@
+regeneration:
+    probabilities:
+        STONE: 0.5
+        COBBLESTONE: 0.3
+        DIAMOND_ORE: 0.2
+    delays:
+        first-regeneration:
+            minimum: 100
+            maximum: 1000
+        other-regenerations:
+            minimum: 50
+            maximum: 100
+active-blocks: {}    

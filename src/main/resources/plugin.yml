@@ -1,0 +1,8 @@
+name: OreRegenerator
+main: me.PixelLima.OreRegenerator.OreRegenerator
+version: 0.1
+description: A plugin that regenerates mined ores.
+
+commands:
+    oreregenerator:
+        description: Select which blocks you want to be regenerated.
