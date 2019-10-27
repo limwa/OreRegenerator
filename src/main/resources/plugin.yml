@@ -5,4 +5,4 @@ description: A plugin that regenerates mined ores.
 
 commands:
     oreregenerator:
-        description: Select which blocks you want to be regenerated.
+        description: The general-purpose command for OreRegenerator.
